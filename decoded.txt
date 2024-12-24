@@ -1,0 +1,19 @@
+Hi 
+This is Adarsh
+Bye
+code: Holds the current dictionary code while traversing the input data. It starts with a special Nil value to indicate no initial code.
+codeBitsWidth: The width of the dictionary codes in bits. It starts with a predefined constant StartBits (likely the minimum code width, e.g., 9 bits).
+Dictionary: Manages the mapping between sequences of bytes and their corresponding codes. It includes functions for adding, finding, and resetting entries.
+BitStreamWriter: Handles writing compressed data into a dynamically growing memory buffer as bits.
+code: Holds the current dictionary code while traversing the input data. It starts with a special Nil value to indicate no initial code.
+codeBitsWidth: The width of the dictionary codes in bits. It starts with a predefined constant StartBits (likely the minimum code width, e.g., 9 bits).
+Dictionary: Manages the mapping between sequences of bytes and their corresponding codes. It includes functions for adding, finding, and resetting entries.
+BitStreamWriter: Handles writing compressed data into a dynamically growing memory buffer as bits.
+code: Holds the current dictionary code while traversing the input data. It starts with a special Nil value to indicate no initial code.
+codeBitsWidth: The width of the dictionary codes in bits. It starts with a predefined constant StartBits (likely the minimum code width, e.g., 9 bits).
+Dictionary: Manages the mapping between sequences of bytes and their corresponding codes. It includes functions for adding, finding, and resetting entries.
+BitStreamWriter: Handles writing compressed data into a dynamically growing memory buffer as bits.
+code: Holds the current dictionary code while traversing the input data. It starts with a special Nil value to indicate no initial code.
+codeBitsWidth: The width of the dictionary codes in bits. It starts with a predefined constant StartBits (likely the minimum code width, e.g., 9 bits).
+Dictionary: Manages the mapping between sequences of bytes and their corresponding codes. It includes functions for adding, finding, and resetting entries.
+BitStreamWriter: Handles writing compressed data into a dynamically growing memory buffer as bits.
